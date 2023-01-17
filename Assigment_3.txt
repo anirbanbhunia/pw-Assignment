@@ -1,0 +1,23 @@
+1.What is HTML?
+ans:HTML stands for Hypertext Markup Language. It is a standard markup language used to create web pages. HTML is used to structure the content of a web page, such as text, images, and links, and to create the basic layout of the page. It consists of a series of tags and attributes that are used to define the different elements of a web page, such as headings, paragraphs, and links.
+
+2.What is CSS?
+ans: CSS stands for Cascading Style Sheets.It is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
+CSS can be used to change the color, font, spacing, and other layout properties of HTML elements, allowing web developers to create visually appealing and consistent designs across multiple pages.
+
+3.Why did JavaScript come ito the picture?
+ans:JavaScript was developed in the mid-1990s to add interactivity and dynamic behavior to web pages. Before the introduction of JavaScript, web pages were static and could only display information, but could not respond to user interactions. JavaScript allows web developers to create dynamic and interactive web pages that can update and change in response to user input. It enables the creation of things like form validation, interactive maps, dynamic drop-down menus, and many other types of interactive and dynamic effects on web pages.
+
+4.History of JavaScript and EcmaScript?
+ans:JavaScript was developed in the mid-1990s by Brendan Eich while he was working at Netscape Communications Corporation. The initial version of JavaScript was called Mocha, and it was later renamed to LiveScript. The name JavaScript was chosen because it was similar to Java, which was a popular programming language at the time, in the hopes that it would gain more traction among web developers.
+
+JavaScript quickly became popular among web developers for its ability to add interactivity and dynamic behavior to web pages. However, as the language evolved and more complex applications were built with it, inconsistencies and ambiguities in the language specification became a problem.
+
+In order to address these issues and standardize the language, an organization called Ecma International formed a technical committee in 1996 to develop a standardized version of JavaScript, which they named ECMAScript. The first version of ECMAScript, ECMAScript 1, was released in 1997 and has since been updated several times, with the latest version being ECMAScript 2020.
+
+ECMAScript is the official name of the language standard and JavaScript is the dialect of ECMAScript that is most widely supported by web browsers. Other dialects of ECMAScript include JScript, which is supported by Microsoft's Internet Explorer, and ActionScript, which is used to create Flash animations.
+
+
+
+
+
