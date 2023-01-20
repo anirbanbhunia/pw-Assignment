@@ -1,0 +1,15 @@
+1.List all the tools you might use as a web developer.
+
+i)Text editor (e.g. Sublime Text, Visual Studio Code)
+ii) Integrated Development Environment (IDE) (e.g. Eclipse, Visual Studio)
+iii)Version control system (Git)
+iv)Browser developer tools (e.g. Chrome DevTools, Firefox Developer Tools)
+v)CSS preprocessor (e.g. Sass, Less)
+vi)JavaScript framework/library (e.g. React, Angular, Vue.js)
+vii)CSS frameworks (e.g. Bootstrap, Foundation)
+viii)Deployment tools (e.g. Heroku, AWS)
+ix)Database management tools (e.g. MySQL Workbench, MongoDB Compass).
+
+2.What are some of the features of PW Skills Online Lab? Explain how they are useful.
+
+PW Skills lab a Online cloud platform for programming .it's helps lot beacause many students here they not afford a high performance laptop, in this lab we use any tools for programming from any laptop.Most of the tools are here in this lab for programming.
