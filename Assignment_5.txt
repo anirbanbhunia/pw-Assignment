@@ -1,0 +1,23 @@
+1. Why do we start learning a programming language with “Hello,World!"?
+like, it can be anything. it can be print("Hi") but no, every teacher, every lesson, every website, teaches you "Hello World". why?? is it just a programmer meme or smth.
+
+2. How is the use of comments and how do you write comments in HTML?
+comments are added with the purpose of making the source code easier for humans to under stand.it use for explanation of the code.
+how do we write comments:-
+for mac os = command forward slash
+for window = control forward slash
+
+3.What are elements,tags and attributs and the difference between them?
+i) An HTML element is defined by a starting tag. If the element contains other content, it ends with a closing tag. For example, <p> is starting tag of a paragraph and </p> is closing tag of the same paragraph but <p>This is paragraph</p> is a paragraph element.
+ii)An HTML tag is commonly defined as a set of characters constituting a formatted command for a Web page.
+iii)HTML attributes are special words used inside the opening tag to control the element's behaviour.
+
+HTML tags are used to hold the HTML element. HTML element holds the content. HTML attributes are used to describe the characteristic of an HTML element in detail.
+
+4.Brifly explain what HTML entities are.
+HTML entities are special characters that are used to display reserved HTML characters, such as < and >, within HTML documents. These characters are represented by a unique code, such as < and >, which the browser will interpret as the corresponding special character. This allows developers to use reserved characters within HTML without causing the browser to interpret them as markup. Some examples of HTML entities include:
+< for <
+> for >
+& for &
+© for ©
+  for non breaking space.
