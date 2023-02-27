@@ -1,0 +1,56 @@
+1. What are inline and block elements in HTML and the difference between them ?name of a few inline elements and block elemens.
+
+ans: Block elements : A block element always begins on a new line and browser add a mergine before and after by default.
+
+ex: <p></p>, <div></div>, <h1></h1> etc.
+
+     Inline elemens : Inline elements are those which only occupy the space bounded by the tags defining the element, instead of breaking the flow of the content.
+ex:<span></span> , <abbr></abbr>  , <b></b>  ,<a></a> etc.
+
+most basic difference between inline and block elemens is
+a block elemen always occupies the entire available width(streaches out to the left and right as far as possible).
+and an inline element only uses the space that is required.
+
+2. How to work with images in HTML and explain in detail <img/> tag important attributes.
+ images are used in web pages for basically two reasons
+ main reason to pass more informatins about the webpage through the images
+ or make beautyfull or try to make attractive of our web pages.
+ basically we use image tag for our web pages to use imges.
+ <img src="" alt""/> like this....
+ in src we give the image path where the image stored..
+ if image is not loaded in our website for this reason we write a text in alt that text represents the image.
+
+ 3. How to create lists in HTML.
+ In html we create lists by using three types of tags
+ a.order list.
+ it represents like this..
+ <ol>
+   <li></li>
+   <li></li>
+ </ol>
+
+ b.unorder list.
+ it represents like this..
+ <ul>
+    <li></li>
+   <li></li>
+ </ul>
+ 
+ c.Description list.
+ it represents like this...
+ <dl>
+   <dt></dt>
+   <dd></dd>
+   <dt></dt>
+   <dd></dd>
+ </dl>
+ here dt means Description term
+ and dd tag means Description data.
+
+ 4.How to interlink webpages and navigate people to other website.
+
+ The <a> tag defines a hyperlink and is used to link from one page to another. href attribute is used with the <a> tag, which indicates the link's destination.
+
+To create page links in an HTML page, we need to use the href attribute of the <a> and </a> tag. Make sure that the <a></a> tag is placed with in the <body>…</body> tags.
+
+The link text is visible. Clicking on the link text will navigate to the specified URL address.
