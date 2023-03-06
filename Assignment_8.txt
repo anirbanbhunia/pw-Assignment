@@ -1,0 +1,50 @@
+1. Explain the Table and its propertes.
+ans:webdevlopers can organize information like text,audio,images,links and other data into rows and columns of cells using html tables.
+the <table></table> tag is used generate html table.
+table heading are created using <th></th> tag into table row tag <tr></tr> ,first row are using for table heading.
+and table data created by using <td></td> tag.
+we have some properties for table tag like border,cellpadding,cellspacing
+
+2.Explain all media elements and how they work in html.
+
+In html there are three media element audio,video,image.
+for audio we use <audio></audio> tag
+It is an inline element that is used to embed sound files into a web page.
+
+for video we use <video></video> tag
+It is used to embed video files into a web page.
+
+for image we use <img> tag.
+The <img> tag is used to embed an image in an HTML page.
+
+3.What is get and post in form?
+
+Get:GET is used to request data from a specified resource.
+Note that the query string (name/value pairs) is sent in the URL of a GET request.
+
+post:POST is used to send data to a server to create/update a resource.
+The data sent to the server with POST is stored in the request body of the HTTP request.
+
+3.List all the input types we have in forms.
+<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">
