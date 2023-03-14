@@ -1,0 +1,17 @@
+1.What are the new things introduced in HML5!
+
+a:There are many attributes present in HTML5 that were not present in HTML.
+b: HTML5 provides support audio,video and other multimedia content by using  tags like <audio></audio>,<video></video>,<canvas></canvas> etc.
+c:There are many page layout options available in HTML5
+D:HTML5 support Search Engine Optimisations (SEO).SEO helps the websites to know about the popularity of there content and also provides insights on how to improve.
+
+2.What are semantic tags? Give a couple of examples.
+In HTML semantic tag are tags that describe the meaning or purpose of the content they contain.
+semantic tags are used to add meaning to the content of a web page,making it easier for search Engines and other systems to understand the content of a webpage.
+ex:<header></header>,<nav></nav>,<footer></footer>,<asid></asid>,<article></article>,
+<details></details>.
+
+3.List some uses of semantic tags.
+a.The semantic HTML tags help the search engines and other user devices to determine the importance and context of web pages.
+b.The pages made with semantic elements are much easier to read.
+c.It has greater accessibility. It offers a better user experience.
