@@ -1,0 +1,12 @@
+1.What is CSS an why use it?
+ans: CSS stands for Cascading Style Sheets .
+CSS is used for defining the styles for web pages. It describes the look and formatting of a document which is written in a markup language. It provides an additional feature to HTML. It is generally used with HTML to change the style of web pages and user interfaces.
+
+2.What are the different ways to bring CSS into an HTML file?
+ans: CSS can be added to HTML documents in 3 ways:
+Inline - by using the style attribute inside HTML elements
+Internal - by using a <style> element in the <head> section
+External - by using a <link> element to link to an external CSS file
+
+3.What do you mean by specificity in CSS?
+Specificity is an algorithm that calculates the weight that is applied to a given CSS declaration.
