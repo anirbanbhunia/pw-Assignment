@@ -1,0 +1,16 @@
+1.Why is it called a pseudo-class?
+ans:The term "pseudo" means "false" or "not genuine," and the reason this term is used in CSS is that these selectors are not actual classes that we can apply to HTML elements. Instead, they are "false" or "virtual" classes that allow we to target and style elements based on specific conditions or states.
+
+2.What are gradients in CSS?
+ans:The Gradient in CSS is a special type of image that is made up of progressive & smooth transition between two or more colors.
+CSS defines three types of gradients:
+● Linear Gradients (goes down/up/left/right/diagonally)
+● Radial Gradients (defined by their center)
+● Conic Gradients (rotated around a center point)
+
+3.What are different types of transitions in CSS?
+ans: a.transition
+     b.transition-delay
+     c.transition-duration
+     d.transition-property
+     e.transition-timing-function
