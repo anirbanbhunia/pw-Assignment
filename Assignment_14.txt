@@ -1,0 +1,35 @@
+1.What are media queries in CSS and their use
+case?
+ans: Media queries are a feature of CSS that allows you to apply different styles to a
+webpage based on the characteristics of the device it is being displayed on. This
+can be useful for creating responsive designs that look good on a variety of
+different devices, such as smartphones, tablets, and desktop computers.
+
+Use cases of media queries:-
+a.Responsive Web Design: Media queries are essential for creating responsive web designs that adjust to different screen sizes. By using media queries, you can apply different styles to elements based on the width of the device, allowing your website to look great on everything from desktop monitors to mobile phones.
+
+b.Typography: When designing a website, it's important to choose font sizes and styles that are easy to read on any device. Media queries can be used to adjust the font size and line height of text depending on the screen size, ensuring that the text is always legible.
+
+c.Images: Large images can take up a lot of screen real estate on a desktop, but on a mobile device, they can take up the entire screen. Media queries can be used to adjust the size and placement of images based on the screen size, so they look good on any device.
+
+d.Navigation: Navigation menus can be difficult to navigate on small screens. By using media queries, you can create a responsive navigation menu that collapses into a hamburger menu on smaller screens, making it easier to navigate on mobile devices.
+
+e.Layout: Media queries can be used to adjust the layout of a web page based on the screen size. For example, you can change the number of columns in a layout or adjust the position of elements on the page based on the device's screen size.
+
+2.Difference between min-width and max-width in media queries in CSS?
+ans.The min-width specifies the minimum screen width of a specific device, meanwhile, The max-width media feature states the maximum screen width of a specific device.
+
+3.Explain float property and clear property in CSS with examples?
+ans.Float:The float property specifies whether an element should float to the left, right, or not at all.
+example:
+img  {
+  float: right;
+}
+Clear:The clear CSS property sets whether an element must be moved below (cleared) floating elements that precede it. The clear property applies to floating and non-floating elements.
+example:
+img {
+  float: left;
+}
+p.clear {
+  clear: left;
+}
